@@ -226,6 +226,16 @@ td.ind { padding-left: 28px; }
 
 /* ---------- bibtex ---------- */
 
+.bibtex-soon {
+  background: #f7f7f5;
+  border: 1px solid #dddddd;
+  padding: 16px 18px;
+  margin-top: 14px;
+  font-family: var(--sans);
+  font-size: 14.5px;
+  color: var(--muted);
+}
+
 .bibtex { position: relative; margin-top: 14px; }
 .bibtex pre {
   background: #f7f7f5;
